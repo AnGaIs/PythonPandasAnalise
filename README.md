@@ -1,11 +1,16 @@
-BootCamp Carrefour - Projeto Análise de dados com Python e Pandas da Digital Innovation One.
- 
- **Assuntos abordados neste curso**:
- 1. Python Básico
- 1. Estrutura de dados
- 1. Introdução a Biblioteca Pandas
- 1. Trabalhando com arquivos em Excel
- 1. Trabalhando com Datas
- 1. Visualização de dados
- 1. Análise Exploratória de dados
-Análise de dados com Python e Pandas
+# Criando-um-Ecossistema-Hadoop-Totalmente-Gerenciado-com-Google-Cloud-Dataproc
+Digital Innovation One
+Código criado para utilização junto a plataforma da Digital Innovation One
+
+<p align="center"><img src="./DIO.png" width="500"></p>
+
+## Desafio GCP Dataproc
+
+O desafio faz parte do curso na plataforma da Digital Innovation One:
+
+__*Criando um ecossitema Hadoop totalmente gerenciado com Google Cloud Platform*__
+
+O desafio consiste em efetuar um processamento de dados utilizando o produto Dataproc do GCP. Esse processamento irá efetuar a contahem das palavras de um livro e informar quantas vezes cada palavra aparece no mesmo.
+
+---
+
